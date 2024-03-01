@@ -1,8 +1,7 @@
 서울 고궁안내 프로젝트
 =================
 
-# PPT
-<img src="https://www.miricanvas.com/v/12xga76"/>
+# PPT URL : https://www.miricanvas.com/v/12xga76"
 
 # 개요
 * 우리나라의 대표적인 관광지인 조선의 4대 궁궐 과 종묘를 소개하는 페이지를 제작한다.
