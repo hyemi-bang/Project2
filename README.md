@@ -65,7 +65,9 @@
 > *  
 
 ## 해결한 문제
-> * 김준형, 조현우 : 공공데이터 Open Api 데이터 갱신방법
+>  * 프로젝트 생성시 mapper.xml에 DOCTYPE 선언을 누락하여 null 오류가 발생 → 에러 메시지 확인하여 오류 해결.
+
+>  * 김준형, 조현우 : 공공데이터 Open Api 데이터 갱신방법
 >   + MERGE sql문을 활용 경우에따라 Insert, Update 한다.
 >   + 주기는 Spring Scheduler를 활용해 일정 주기로 동작하게 한다.
 
