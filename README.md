@@ -62,9 +62,6 @@
 > * 조현우 : 해설예약페이지 - 궁/날짜/회차를 선택하고 인원을 설정한 후 동의사항을 체크하면 해설예약을 할 수 있는 페이지 완성 [[Commit]](https://github.com/kimj0131/royal_project/commit/acbdc9238a40581477c47bca7f0aaa7e6bd643d7)
 ***
 
-## 발생한 문제
-> *  
-
 ## 해결한 문제
 >  * 프로젝트 생성시 mapper.xml에 DOCTYPE 선언을 누락하여 null 오류가 발생 → 에러 메시지 확인하여 오류 해결.
 
